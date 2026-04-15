@@ -1,6 +1,7 @@
 AuctionHouse
 
 - A full-stack database-driven web application built for a databases course project. AuctionHouse is a simple online auction platform where users can list items for auction, place bids, and view live countdowns on active listings.
+
 Live Site: tonystonedb.pythonanywhere.com
 
 --------------------------------------------
